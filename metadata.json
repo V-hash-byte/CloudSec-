@@ -1,0 +1,8 @@
+{
+  "name": "CloudSec Monitor SOC Platform",
+  "description": "Next-generation Cloud Security Operations Center (SOC) platform featuring real-time multi-cloud threat detection, MITRE ATT&CK correlation, automated SOAR playbooks, CSPM asset posture, and AI security copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
